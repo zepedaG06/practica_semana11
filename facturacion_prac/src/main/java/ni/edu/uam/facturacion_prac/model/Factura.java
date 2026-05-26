@@ -29,6 +29,8 @@ public class Factura
             properties=@PropertyValue(name="anyo")
     )
     int numero;
+    @ManyToOne(fetch=FetchType.LAZY, optional=false) //
+    Cliente cliente;
 
     @Required
     @DefaultValueCalculator(CurrentLocalDateCalculator.class)
