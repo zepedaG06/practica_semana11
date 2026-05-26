@@ -1,6 +1,7 @@
 package ni.edu.uam.facturacion_prac.model;
 
 import java.time.*;
+import java.util.Collection;
 import javax.persistence.*;
 
 import ni.edu.uam.facturacion_prac.calculadores.CalculadorSiguienteNumeroParaAnyo;
@@ -31,6 +32,9 @@ public class Factura
     int numero;
     @ManyToOne(fetch=FetchType.LAZY, optional=false) //
     Cliente cliente;
+
+    @ListProperties("producto.numero, producto.descripcion, cantidad")
+    Collection<Detalle> detalles;
 
     @Required
     @DefaultValueCalculator(CurrentLocalDateCalculator.class)

@@ -8,11 +8,11 @@
       <change beforePath="$PROJECT_DIR$/../facrturacion/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../facrturacion/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava/dtds/editores.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava/dtds/editores.dtd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava/dtds/editors.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava/dtds/editors.dtd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/facturacion_prac-db.lck" beforeDir="false" afterPath="$PROJECT_DIR$/data/facturacion_prac-db.lck" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/facturacion_prac-db.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/facturacion_prac-db.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/facturacion_prac-db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/data/facturacion_prac-db.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/facturacion_prac-db.script" beforeDir="false" afterPath="$PROJECT_DIR$/data/facturacion_prac-db.script" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ni/edu/uam/facturacion_prac/calculadores/CalculadorSiguienteNumeroParaAnyo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ni/edu/uam/facturacion_prac/calculadores/CalculadorSiguienteNumeroParaAnyo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ni/edu/uam/facturacion_prac/model/Factura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ni/edu/uam/facturacion_prac/model/Factura.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
