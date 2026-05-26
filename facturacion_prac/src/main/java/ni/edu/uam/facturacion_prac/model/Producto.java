@@ -2,7 +2,7 @@ package ni.edu.uam.facturacion_prac.model;
 import lombok.*;
 import org.openxava.annotations.*;
 import javax.persistence.*;
-
+//Paso de 2 de la leccion 1
 @Entity @Getter @Setter
 public class Producto
 {
