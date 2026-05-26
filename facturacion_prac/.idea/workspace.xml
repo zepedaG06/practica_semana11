@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27b38f00-9557-46dd-90d6-cf856f003d55" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../facrturacion/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/AGENTS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/java/ni/edu/uam/facrturacion/run/.algo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/java/ni/edu/uam/facrturacion/run/DBManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/java/ni/edu/uam/facrturacion/run/facrturacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/i18n/facrturacion-labels_es.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/i18n/facrturacion-messages_es.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/naviox-users.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/naviox.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava/aplicacion.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava/controladores.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava/dtds/annotation-type-default.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava/dtds/aplicacion.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava/dtds/application.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava/dtds/controladores.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava/dtds/controllers.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava/dtds/conversores.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava/dtds/converters.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava/dtds/default-size.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava/dtds/editores.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava/dtds/editors.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava/dtds/longitud-defecto.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava/dtds/stereotype-type-default.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava/dtds/tabs-default-values.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava/dtds/tipo-anotacion-defecto.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava/dtds/tipo-estereotipo-defecto.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava/dtds/validadores.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava/dtds/validators.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava/dtds/valores-defecto-tabs.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava/editores.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/webapp/META-INF/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/main/webapp/xava/style/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facrturacion/src/test/resources/xava-junit.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AGENTS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ni/edu/uam/facturacion_prac/run/.something" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ni/edu/uam/facturacion_prac/run/DBManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ni/edu/uam/facturacion_prac/run/facturacion_prac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/i18n/facturacion_prac-labels_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/i18n/facturacion_prac-messages_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/naviox-users.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/naviox.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/application.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/controllers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/annotation-type-default.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/aplicacion.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/application.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/controladores.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/controllers.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/conversores.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/converters.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/default-size.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/editores.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/editors.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/longitud-defecto.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/stereotype-type-default.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/tabs-default-values.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/tipo-anotacion-defecto.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/tipo-estereotipo-defecto.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/validadores.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/validators.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/valores-defecto-tabs.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/editors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/META-INF/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/naviox/welcome.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/xava/editors/js/yourEditor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/xava/editors/yourEditor.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/xava/style/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/xava-junit.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/AGENTS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/java/ni/edu/uam/facturacion_practica/model/YourFirstEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/java/ni/edu/uam/facturacion_practica/run/.something" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/java/ni/edu/uam/facturacion_practica/run/DBManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/java/ni/edu/uam/facturacion_practica/run/facturacion_practica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/resources/i18n/facturacion_practica-labels_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/resources/i18n/facturacion_practica-messages_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/resources/naviox-users.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/resources/naviox.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/resources/xava.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/resources/xava/application.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/resources/xava/controllers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/resources/xava/dtds/annotation-type-default.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/resources/xava/dtds/aplicacion.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/resources/xava/dtds/application.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/resources/xava/dtds/controladores.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/resources/xava/dtds/controllers.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/resources/xava/dtds/conversores.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/resources/xava/dtds/converters.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/resources/xava/dtds/default-size.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/resources/xava/dtds/editores.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/resources/xava/dtds/editors.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/resources/xava/dtds/longitud-defecto.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/resources/xava/dtds/stereotype-type-default.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/resources/xava/dtds/tabs-default-values.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/resources/xava/dtds/tipo-anotacion-defecto.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/resources/xava/dtds/tipo-estereotipo-defecto.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/resources/xava/dtds/validadores.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/resources/xava/dtds/validators.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/resources/xava/dtds/valores-defecto-tabs.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/resources/xava/editors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/webapp/META-INF/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/webapp/naviox/welcome.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/webapp/xava/editors/js/yourEditor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/webapp/xava/editors/yourEditor.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/main/webapp/xava/style/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facturacion_practica/src/test/resources/xava-junit.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "zepedaG06"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/zepedaG06/Caso_de_estudios.git",
+    "accountId": "71e86899-de15-4081-b942-427676769e92"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="3EGo4O9XOIki5KSQfn9saDR8gD4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.facturacion_prac.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.facturacion_prac [package].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn package" />
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27b38f00-9557-46dd-90d6-cf856f003d55" name="Changes" comment="" />
+      <created>1779814077030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779814077030</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:junit:junit" />
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.validation:jakarta.validation-api" />
+    <option featureType="dependencySupport" implementationName="java:javax.persistence:javax.persistence-api" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+    <option featureType="dependencySupport" implementationName="java:javax.ejb:ejb-api" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate.validator:hibernate-validator" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.ws.rs:jakarta.ws.rs-api" />
+    <option featureType="dependencySupport" implementationName="maven-packaging:war" />
+    <option featureType="dependencySupport" implementationName="java:javax.validation:validation-api" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+  </component>
+</project>
