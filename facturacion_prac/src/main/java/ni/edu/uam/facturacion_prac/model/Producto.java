@@ -8,6 +8,10 @@ public class Producto
 {
     @Id @Column(length=9)
     int numero;
-
+    @ManyToOne(
+            fetch=FetchType.LAZY,
+            optional=true)
+    @DescriptionsList
+    Categoria categoria;
 
 }
