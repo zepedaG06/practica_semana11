@@ -25,4 +25,7 @@ public class Producto
 
     @TextArea
     String observaciones;
+
+    @Embedded
+    Direccion direccion;
 }
