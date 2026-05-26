@@ -35,10 +35,12 @@ public class Factura
             properties=@PropertyValue(name="anyo")
     )
     int numero;
+
     @ManyToOne(fetch=FetchType.LAZY, optional=false)
     @ReferenceView("Simple")
     Cliente cliente;
 
+    @ElementCollection
     @ListProperties("producto.numero, producto.descripcion, cantidad")
     Collection<Detalle> detalles;
 
