@@ -28,4 +28,8 @@ public class Producto
 
     @Embedded
     Direccion direccion;
+
+    @ManyToOne(fetch=FetchType.LAZY)
+    @DescriptionsList
+    Autor autor;
 }
