@@ -19,14 +19,14 @@ public class Factura
     String oid;
 
     @Column(length=4)
-    @DefaultValueCalculator(CurrentYearCalculator.class) // Año actual
+    @DefaultValueCalculator(CurrentYearCalculator.class)
     int anyo;
 
     @Column(length=6)
     int numero;
 
     @Required
-    @DefaultValueCalculator(CurrentLocalDateCalculator.class) // Fecha actual
+    @DefaultValueCalculator(CurrentLocalDateCalculator.class)
     LocalDate fecha;
 
     @TextArea
