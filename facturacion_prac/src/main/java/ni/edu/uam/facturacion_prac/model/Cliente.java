@@ -4,7 +4,7 @@ import lombok.*;
 import org.openxava.annotations.*;
 import javax.persistence.*;
 
-
+//Primer paso
 @Entity
 @Getter @Setter
 public class Cliente
