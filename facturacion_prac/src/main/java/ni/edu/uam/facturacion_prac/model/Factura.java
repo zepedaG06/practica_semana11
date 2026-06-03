@@ -17,15 +17,8 @@ import lombok.*;
                 "detalles;" +
                 "observaciones"
 )
-public class Factura
+public class Factura extends Identificable
 {
-    @Id
-    @GeneratedValue(generator="system-uuid")
-    @Hidden
-    @GenericGenerator(name="system-uuid", strategy="uuid")
-    @Column(length=32)
-    String oid;
-
     @Column(length=4)
     @DefaultValueCalculator(CurrentYearCalculator.class)
     int anyo;

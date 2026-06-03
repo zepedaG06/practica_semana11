@@ -10,13 +10,8 @@ import java.util.Collection;
 
 @Entity @Getter @Setter
 
-public class Autor
+public class Autor extends Identificable
 {
-    @Id @GeneratedValue(generator="system-uuid") @Hidden
-    @GenericGenerator(name="system-uuid", strategy = "uuid")
-    @Column(length=32)
-    String oid;
-
     @Column(length=50) @Required
     String nombre;
 
