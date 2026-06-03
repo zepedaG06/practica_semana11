@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27b38f00-9557-46dd-90d6-cf856f003d55" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../facrturacion/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../facrturacion/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava/dtds/editores.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava/dtds/editores.dtd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava/dtds/editors.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/../facrturacion/src/main/resources/xava/dtds/editors.dtd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/facturacion_prac-db.lck" beforeDir="false" afterPath="$PROJECT_DIR$/data/facturacion_prac-db.lck" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/facturacion_prac-db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/data/facturacion_prac-db.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/facturacion_prac-db.script" beforeDir="false" afterPath="$PROJECT_DIR$/data/facturacion_prac-db.script" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ni/edu/uam/facturacion_prac/calculadores/CalculadorSiguienteNumeroParaAnyo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ni/edu/uam/facturacion_prac/calculadores/CalculadorSiguienteNumeroParaAnyo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ni/edu/uam/facturacion_prac/model/Factura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ni/edu/uam/facturacion_prac/model/Factura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ni/edu/uam/facturacion_prac/model/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ni/edu/uam/facturacion_prac/model/Producto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/xava/dtds/validators.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/validators.dtd" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,40 +26,52 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "zepedaG06"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;zepedaG06&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/zepedaG06/practica_semana11.git",
-    "accountId": "71e86899-de15-4081-b942-427676769e92"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/zepedaG06/practica_semana11.git&quot;,
+    &quot;accountId&quot;: &quot;71e86899-de15-4081-b942-427676769e92&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="3EGo4O9XOIki5KSQfn9saDR8gD4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.facturacion_prac.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "Maven.facturacion_prac [package].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.facturacion_prac.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.facturacion_prac [package].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Casa/practica_semana11/facturacion_prac&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn package" />
@@ -73,7 +80,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
       </set>
     </attachedChunks>
   </component>
@@ -84,8 +92,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1779814077030</updated>
+      <workItem from="1779845368059" duration="1444000" />
+      <workItem from="1779847159611" duration="599000" />
+      <workItem from="1779847838977" duration="3758000" />
+      <workItem from="1780276654080" duration="56000" />
+      <workItem from="1780343925737" duration="1113000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="UnknownFeatures">
     <option featureType="dependencySupport" implementationName="java:junit:junit" />
