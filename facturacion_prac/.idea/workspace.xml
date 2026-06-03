@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27b38f00-9557-46dd-90d6-cf856f003d55" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/data_sources_history.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/data_sources_history.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/facturacion_prac-db.lck" beforeDir="false" afterPath="$PROJECT_DIR$/data/facturacion_prac-db.lck" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/facturacion_prac-db.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/facturacion_prac-db.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/facturacion_prac-db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/data/facturacion_prac-db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/facturacion_prac-db.script" beforeDir="false" afterPath="$PROJECT_DIR$/data/facturacion_prac-db.script" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ni/edu/uam/facturacion_prac/model/DocumentoComercial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ni/edu/uam/facturacion_prac/model/DocumentoComercial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,12 +132,13 @@
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Casa/practica_semana11/facturacion_prac",
+    "last_opened_file_path": "C:/Users/biblioteca/practica_semana11/facturacion_prac",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   },
@@ -146,7 +153,7 @@
       <command value="mvn package" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.facturacion_prac">
+  <component name="RunManager" selected="Application.DBManager">
     <configuration name="DBManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ni.edu.uam.facturacion_prac.run.DBManager" />
       <module name="facturacion_prac" />
@@ -175,8 +182,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.facturacion_prac" />
         <item itemvalue="Application.DBManager" />
+        <item itemvalue="Application.facturacion_prac" />
       </list>
     </recent_temporary>
   </component>
@@ -201,6 +208,8 @@
       <workItem from="1780276654080" duration="56000" />
       <workItem from="1780343925737" duration="1113000" />
       <workItem from="1780449799741" duration="7220000" />
+      <workItem from="1780505858573" duration="1878000" />
+      <workItem from="1780507804797" duration="1808000" />
     </task>
     <servers />
   </component>

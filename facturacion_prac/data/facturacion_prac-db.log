@@ -1,9 +1,0 @@
-/*C3*/SET SCHEMA PUBLIC
-DISCONNECT
-/*C4*/SET SCHEMA PUBLIC
-create table DocumentoComercial (DTYPE varchar(31) not null, oid varchar(32) not null, anyo integer, fecha date, numero integer, observaciones varchar(255), cliente_numero integer not null, factura_oid varchar(32), primary key (oid))
-create table DocumentoComercial_detalles (DocumentoComercial_oid varchar(32) not null, cantidad integer not null, producto_numero integer)
-alter table DocumentoComercial add constraint FKqxvhhtdl5x1bljcimyej4mksx foreign key (cliente_numero) references Cliente
-alter table DocumentoComercial add constraint FK4lhtu14i3f0y8m4ohuxww2b48 foreign key (factura_oid) references DocumentoComercial
-alter table DocumentoComercial_detalles add constraint FKgyn78bk9nimdbk5uxm7ioiib1 foreign key (producto_numero) references Producto
-alter table DocumentoComercial_detalles add constraint FKq37xaecvr7po697tmegcffoba foreign key (DocumentoComercial_oid) references DocumentoComercial

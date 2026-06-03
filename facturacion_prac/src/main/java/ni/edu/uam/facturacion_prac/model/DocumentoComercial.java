@@ -6,6 +6,7 @@ import java.util.Collection;
 import javax.persistence.*;
 import javax.validation.constraints.Digits;
 
+import ni.edu.uam.facturacion_prac.calculadores.CalculadorPorcentajeIVA;
 import ni.edu.uam.facturacion_prac.calculadores.CalculadorSiguienteNumeroParaAnyo;
 import org.openxava.annotations.*;
 import org.openxava.calculators.*;
@@ -46,6 +47,7 @@ abstract public class DocumentoComercial extends Identificable
     )
     Collection<Detalle> detalles;
 
+
     @Required
     @DefaultValueCalculator(CurrentLocalDateCalculator.class)
     LocalDate fecha;
@@ -53,6 +55,7 @@ abstract public class DocumentoComercial extends Identificable
     @TextArea
     String observaciones;
 
+    @DefaultValueCalculator(CalculadorPorcentajeIVA.class)
     @Digits(integer=2, fraction=0)
     BigDecimal porcentajeIVA;
 
