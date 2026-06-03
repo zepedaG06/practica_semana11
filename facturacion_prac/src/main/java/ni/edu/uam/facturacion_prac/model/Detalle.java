@@ -1,8 +1,8 @@
 package ni.edu.uam.facturacion_prac.model;
 import javax.persistence.*;
 import lombok.*;
-import org.openxava.annotations.Depends;
-import org.openxava.annotations.Stereotype;
+import ni.edu.uam.facturacion_prac.calculadores.CalculadorPrecioPorUnidad;
+import org.openxava.annotations.*;
 
 import java.math.BigDecimal;
 
@@ -20,7 +20,12 @@ public class Detalle
     @Depends("producto.numero, cantidad")
     public BigDecimal getImporte()
     {
-        if(producto == null || producto.getPrecio() == null) return BigDecimal.ZERO;
-        return new BigDecimal(cantidad).multiply(producto.getPrecio());
+        if(precioPorUnidad == null) return BigDecimal.ZERO;
+        return new BigDecimal(cantidad).multiply(precioPorUnidad);
     }
+    @DefaultValueCalculator(value= CalculadorPrecioPorUnidad.class,
+            properties=@PropertyValue(name="numeroProducto", from="producto.numero")
+    )
+    @Stereotype("DINERO")
+    BigDecimal precioPorUnidad;
 }
