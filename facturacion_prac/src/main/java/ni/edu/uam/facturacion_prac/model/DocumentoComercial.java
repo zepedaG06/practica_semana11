@@ -1,8 +1,10 @@
 package ni.edu.uam.facturacion_prac.model;
 
+import java.math.BigDecimal;
 import java.time.*;
 import java.util.Collection;
 import javax.persistence.*;
+import javax.validation.constraints.Digits;
 
 import ni.edu.uam.facturacion_prac.calculadores.CalculadorSiguienteNumeroParaAnyo;
 import org.openxava.annotations.*;
@@ -35,7 +37,13 @@ abstract public class DocumentoComercial extends Identificable
     Cliente cliente;
 
     @ElementCollection
-    @ListProperties("producto.numero, producto.descripcion, cantidad, precioPorUnidad, importe")
+    @ListProperties("producto.numero, producto.descripcion, cantidad, precioPorUnidad, "
+                    + "importe + [" +
+        	        "documentoComercial.porcentajeIVA," +
+                    "documentoComercial.iva," +
+                    "documentoComercial.importeTotal" +
+                    "]"
+    )
     Collection<Detalle> detalles;
 
     @Required
@@ -44,5 +52,18 @@ abstract public class DocumentoComercial extends Identificable
 
     @TextArea
     String observaciones;
+
+    @Digits(integer=2, fraction=0)
+    BigDecimal porcentajeIVA;
+
+    @ReadOnly
+    @Money
+    @Calculation("sum(detalles.importe) * porcentajeIVA / 100")
+    BigDecimal iva;
+
+    @ReadOnly
+    @Money
+    @Calculation("sum(detalles.importe) + iva")
+    BigDecimal importeTotal;
 
 }
