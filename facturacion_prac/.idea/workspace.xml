@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27b38f00-9557-46dd-90d6-cf856f003d55" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/facturacion_prac-db.lck" beforeDir="false" afterPath="$PROJECT_DIR$/data/facturacion_prac-db.lck" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/facturacion_prac-db.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/facturacion_prac-db.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/facturacion_prac-db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/data/facturacion_prac-db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/facturacion_prac-db.script" beforeDir="false" afterPath="$PROJECT_DIR$/data/facturacion_prac-db.script" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ni/edu/uam/facturacion_prac/calculadores/CalculadorSiguienteNumeroParaAnyo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ni/edu/uam/facturacion_prac/calculadores/CalculadorSiguienteNumeroParaAnyo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ni/edu/uam/facturacion_prac/model/Factura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ni/edu/uam/facturacion_prac/model/DocumentoComercial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,61 +43,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
+      <entry key="MS100" value="1.6203149634096432E-24" />
+      <entry key="MS500" value="1.745500142217723E-5" />
+      <entry key="S2" value="0.06463681854834546" />
+      <entry key="S5" value="0.3343428105228362" />
+      <entry key="S10" value="0.5782293860315911" />
+      <entry key="S30" value="0.8697509551413615" />
+      <entry key="S60" value="1.2522667388988422" />
+      <entry key="M2" value="2.1465433661980673" />
+      <entry key="M5" value="4.276290144913616" />
+      <entry key="M10" value="6.147428460184669" />
+      <entry key="M15" value="7.212218208933501" />
+      <entry key="M30" value="9.124935440286995" />
+      <entry key="H1" value="11.083557485420526" />
+      <entry key="H2" value="12.675744615143055" />
+      <entry key="H4" value="13.724029344636339" />
+      <entry key="D1" value="14.76915161081361" />
+      <entry key="W1" value="14.966541394645569" />
+    </decayedCancelled>
+    <decayedSelected>
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
       <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0" />
-      <entry key="S60" value="1.0000000000008165" />
-      <entry key="M2" value="1.000001564745391" />
-      <entry key="M5" value="1.0093868210815364" />
-      <entry key="M10" value="1.1852600389361978" />
-      <entry key="M15" value="1.5259098461313283" />
-      <entry key="M30" value="2.567801892816605" />
-      <entry key="H1" value="3.7733329490097973" />
-      <entry key="H2" value="4.714541554342107" />
-      <entry key="H4" value="5.3068746715332455" />
-      <entry key="D1" value="5.876745263969914" />
-      <entry key="W1" value="5.982192359863452" />
-    </decayedCancelled>
-    <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="5.446205906043491E-179" />
-      <entry key="S5" value="6.601977122764994E-72" />
-      <entry key="S10" value="3.5359337263307014E-36" />
-      <entry key="S30" value="2.403803364569946E-12" />
-      <entry key="S60" value="2.2193345660059376E-6" />
-      <entry key="M2" value="0.002263597828613409" />
-      <entry key="M5" value="0.16574260203459915" />
-      <entry key="M10" value="0.7945030147322116" />
-      <entry key="M15" value="1.406953655490668" />
-      <entry key="M30" value="2.5900561707212524" />
-      <entry key="H1" value="3.5756870885237055" />
-      <entry key="H2" value="4.221334994568824" />
-      <entry key="H4" value="4.592287828029017" />
-      <entry key="D1" value="4.929330290519262" />
-      <entry key="W1" value="4.9898355017600915" />
+      <entry key="S5" value="1.000000199515804" />
+      <entry key="S10" value="1.000447707284577" />
+      <entry key="S30" value="1.0935064478509617" />
+      <entry key="S60" value="1.4963303265002206" />
+      <entry key="M2" value="2.3658632672859543" />
+      <entry key="M5" value="4.210170963409775" />
+      <entry key="M10" value="6.3561304960251555" />
+      <entry key="M15" value="7.881203803687223" />
+      <entry key="M30" value="10.661240410906933" />
+      <entry key="H1" value="13.100044067982466" />
+      <entry key="H2" value="14.807363433012496" />
+      <entry key="H4" value="15.833058382853274" />
+      <entry key="D1" value="16.794706022081826" />
+      <entry key="W1" value="16.97039357526564" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.017217267435572038" />
-      <entry key="MS500" value="0.4438056686347489" />
-      <entry key="S2" value="0.8162030461509017" />
-      <entry key="S5" value="0.9219752961374929" />
-      <entry key="S10" value="0.9601954468427211" />
-      <entry key="S30" value="0.9865517714921598" />
-      <entry key="S60" value="0.9932552463262807" />
-      <entry key="M2" value="0.9988373921157477" />
-      <entry key="M5" value="1.1724344764299057" />
-      <entry key="M10" value="1.9757292224456717" />
-      <entry key="M15" value="2.928260542047946" />
-      <entry key="M30" value="5.153529726397495" />
-      <entry key="H1" value="7.3459415101129695" />
-      <entry key="H2" value="8.934023451183615" />
-      <entry key="H4" value="9.898143471469767" />
-      <entry key="D1" value="10.805891480894733" />
-      <entry key="W1" value="10.97200119708434" />
+      <entry key="MS100" value="1.3822258145699997E-14" />
+      <entry key="MS500" value="0.0016952554798861262" />
+      <entry key="S2" value="0.24848692160412017" />
+      <entry key="S5" value="0.8192784574290312" />
+      <entry key="S10" value="1.2666116149248696" />
+      <entry key="S30" value="1.8342113748845228" />
+      <entry key="S60" value="2.664736331320611" />
+      <entry key="M2" value="4.452962714850208" />
+      <entry key="M5" value="8.449047115369932" />
+      <entry key="M10" value="12.47783034318783" />
+      <entry key="M15" value="15.072945670934477" />
+      <entry key="M30" value="19.77261280283495" />
+      <entry key="H1" value="24.175177493780616" />
+      <entry key="H2" value="27.478275334614583" />
+      <entry key="H4" value="29.554476977251756" />
+      <entry key="D1" value="31.56339130975352" />
+      <entry key="W1" value="31.93686752643512" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -152,7 +146,7 @@
       <command value="mvn package" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.DBManager">
+  <component name="RunManager" selected="Application.facturacion_prac">
     <configuration name="DBManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ni.edu.uam.facturacion_prac.run.DBManager" />
       <module name="facturacion_prac" />
@@ -181,8 +175,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DBManager" />
         <item itemvalue="Application.facturacion_prac" />
+        <item itemvalue="Application.DBManager" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +200,7 @@
       <workItem from="1779847838977" duration="3758000" />
       <workItem from="1780276654080" duration="56000" />
       <workItem from="1780343925737" duration="1113000" />
-      <workItem from="1780449799741" duration="5481000" />
+      <workItem from="1780449799741" duration="7220000" />
     </task>
     <servers />
   </component>
